@@ -7,7 +7,7 @@
 #
 # repo show <repo> - shows activity of repository
 #
-HUBOT_GITHUB_TOKEN = "cb436eaa04ae8816c330803f7a63dd916a712264"
+HUBOT_GITHUB_TOKEN = "56a686c645ead4f336bb387ab4a5161e7da81109"
 require('date-utils')
 
 module.exports = (robot) ->
